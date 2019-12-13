@@ -18,4 +18,4 @@ Section 5 - Appropriately label the data set with descriptive variable names.
 
 Section 6 - Use the melt() and dcast() function to create a second, independent tidy data set (tidyData) with the average of each                  variable for each activity and each subject, then writing this average to a .csv file.
 
-### To run the script, simply source the script then call the function by typing run_analysis (no argument needs to be passed)
+### To run the script, simply source the script then call the function by typing run_analysis().No argument needs to be passed
